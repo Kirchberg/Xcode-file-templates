@@ -3,8 +3,9 @@ Here you can find file templates for Xcode from different visions on architectur
 
 ## List of added architectures:
 - VIPER Architecture
-  - MailRu iOS Development
-  - [Habr](https://habr.com/ru/post/358412/)
+  * MailRu iOS Development
+  * [Habr](https://habr.com/ru/post/358412/)
+  * Clean Architecture (VIP)
 
 ## How to install templates
 1. Download folder with .xctemplate extension;
